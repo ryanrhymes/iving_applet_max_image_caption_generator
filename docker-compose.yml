@@ -3,6 +3,6 @@ version: '3.7'
 services:
 
   api:
-    image: codait/max-named-entity-tagger:latest
+    image: codait/max-image-caption-generator:latest
     ports:
-      - 5030:5000
+      - 5060:5000

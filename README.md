@@ -3,7 +3,7 @@
 
 # Refer to
 
-- https://hub.docker.com/r/codait/max-named-entity-tagger
+- https://hub.docker.com/r/codait/max-image-caption-generator
 
 
 # Links
